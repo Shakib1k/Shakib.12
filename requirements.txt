@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+Telethon
+google-genai
+pycryptodome
+gTTS
+Flask
+requests
